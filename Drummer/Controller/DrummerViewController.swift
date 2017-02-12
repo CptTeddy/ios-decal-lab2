@@ -35,4 +35,5 @@ class DrummerViewController: UIViewController {
 //        var temp = 1 - sender.selectedSegmentIndex
 //        sender.selectedSegmentIndex = temp
 //    }
+    
 }
